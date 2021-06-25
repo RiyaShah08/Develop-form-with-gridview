@@ -4,13 +4,8 @@ This is a Windows application which is fully developed for getting information a
 ## Insert Data
 <image src="https://github.com/RiyaShah08/Develop-form-with-gridview/blob/main/Output/Inserted%20Data.PNG">
 <br>
-  
-  
-## Store Data in table
-<image src="https://github.com/RiyaShah08/Develop-form-with-gridview/blob/main/Output/Store%20Data.PNG">
-<br>
-  
-  
+ 
+
 ## Update Data 
 <image src="https://github.com/RiyaShah08/Develop-form-with-gridview/blob/main/Output/Updated%20Data.PNG">
 <br>
